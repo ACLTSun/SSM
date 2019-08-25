@@ -1,0 +1,10 @@
+Person:
+  LastName: zhangsan
+  age: 18
+  address: china shanghai
+  birth: 2019/07/29
+  map: {map1: map1,map2: map2}
+  list: [list1,list2]
+  dog:
+    name: papi
+    age: 2

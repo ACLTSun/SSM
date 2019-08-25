@@ -1,0 +1,47 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.sunj.springboot.quick.bean.Person",
+      "name": "Person",
+      "type": "com.sunj.springboot.quick.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.sunj.springboot.quick.bean.Person",
+      "name": "Person.address",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.sunj.springboot.quick.bean.Person",
+      "name": "Person.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.sunj.springboot.quick.bean.Person",
+      "name": "Person.birth",
+      "type": "java.util.Date"
+    },
+    {
+      "sourceType": "com.sunj.springboot.quick.bean.Person",
+      "name": "Person.dog",
+      "type": "com.sunj.springboot.quick.bean.Dog"
+    },
+    {
+      "sourceType": "com.sunj.springboot.quick.bean.Person",
+      "name": "Person.last-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.sunj.springboot.quick.bean.Person",
+      "name": "Person.list",
+      "type": "java.util.List<java.lang.Object>"
+    },
+    {
+      "sourceType": "com.sunj.springboot.quick.bean.Person",
+      "name": "Person.map",
+      "type": "java.util.Map<java.lang.Object,java.lang.Object>"
+    }
+  ]
+}
